@@ -3,7 +3,7 @@ const GROUPED_FRAME_IMAGES = [
   {
     id: "general",
     label: "FAST UPB",
-    images: ["twibbon-psb-2.png"],
+    images: ["twibbon.png"],
   },
   // {
   //     id: "hari_santri",
